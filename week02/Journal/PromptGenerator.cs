@@ -11,7 +11,8 @@ public class PromptGenerator
         "What was the strongest emotion I felt today?",
         "If I had one thing I could do over today, what would it be?",
         "What is my schedule for today?",
-        ""
+        "Am I worried today?"
+
     };
     public string GetRandomPrompt()
     {
