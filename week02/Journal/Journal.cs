@@ -27,7 +27,7 @@ public class Journal
         {
             foreach (Entry entry in _entries)
             {
-                writer.WriteLine($"Date:{entry._date}| My mood: {entry._mood}| Prompt-Text: {entry._promptText}| Response: {entry._entryText}");
+                writer.WriteLine($"Date:{entry._date}| Mood: {entry._mood}| Prompt-Text: {entry._promptText}| Response: {entry._entryText}");
             }
         }
 
