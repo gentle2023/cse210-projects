@@ -1,2 +1,2 @@
-Date:19/01/2026| My mood: Better| Prompt-Text: Am I worried today?| Response: No
-Date:19/01/2026| My mood: Happy| Prompt-Text: What was the best part of my day?| Response: I made a new good friend.
+Date:28/01/2026| Mood: exited| Prompt-Text: Who was the most interesting person I interacted with today?| Response: My mom
+Date:28/01/2026| Mood: awesome| Prompt-Text: What was the strongest emotion I felt today?| Response: happy

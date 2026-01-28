@@ -1,9 +1,7 @@
 using System;
-using System.Collections.Generic;
 public class PromptGenerator
 {
-    // public List<string> _prompts;
-    private List<string> _prompts = new List<string>
+    public List<string> _prompts = new List<string>
     {
         "Who was the most interesting person I interacted with today?",
         "What was the best part of my day?",
@@ -14,7 +12,7 @@ public class PromptGenerator
         "Am I worried today?"
 
     };
-    public string GetRandomPrompt()
+    public string RandomPrompt()
     {
         Random random = new Random();
         int index = random.Next(_prompts.Count);
