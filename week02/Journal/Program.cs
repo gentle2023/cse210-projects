@@ -1,5 +1,4 @@
-
-
+//Creativity: The addition of mood in the Journal entry
 using System;
 
 class Program
