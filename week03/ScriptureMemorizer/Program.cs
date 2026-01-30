@@ -1,3 +1,4 @@
+// Creativity: The display of the number of words hidden/the total number of words
 using System;
 
 class Program
