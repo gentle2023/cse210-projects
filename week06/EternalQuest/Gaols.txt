@@ -1,0 +1,4 @@
+0
+SimpleGoal|School|Going to school fot a program|100|False
+EternalGoal|bible|to read a book chapter in the bible|100
+ChecklistGoal|exercise|to do my daily exercise|100|3|400|0
