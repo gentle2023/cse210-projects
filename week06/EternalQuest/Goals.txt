@@ -1,4 +1,4 @@
 0
-SimpleGoal|school|to teach in school|100|False
-EternalGoal|bible|to read the bible|100
-ChecklistGoal|exercise|to do exercise daily|100|3|400|0
+SimpleGoal|to go to church|to preach in the church|100|False
+EternalGoal|to do morning jogging|to do it on daily basis|100|0
+ChecklistGoal|to teach people the gospel|those people that are less previlaged|40|3|577|0

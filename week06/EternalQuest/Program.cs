@@ -9,7 +9,7 @@ class Program
         Console.Clear();
 
         //  CREATIVITY ADDED HERE (Styled Welcome Screen)
-        Console.ForegroundColor = ConsoleColor.Cyan;
+        Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("===================================================");
         Console.WriteLine("   Hello World! This is the EternalQuest Project   ");
         Console.WriteLine("===================================================");
